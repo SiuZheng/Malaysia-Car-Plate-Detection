@@ -11,8 +11,8 @@ This project is a **car plate detection and recognition system** built using **Y
 1. Open `carplate_detection.ipynb`.
 2. Run the notebook to train or fine-tune the model. All dataset processing and model fine-tuning are included in the notebook.
 
-1. Run index.py to get the interface in gradio
-2. Make sure the pt is saved in the folder detector and named as car_plate_detection_yolov11n
+3. Run index.py to get the interface in gradio (pip install -r requirements.txt)
+4. Make sure the pt is saved in the folder detector and named as car_plate_detection_yolov11n
 ## Datasets
 - **Original dataset:** [Link](https://universe.roboflow.com/gocar/malaysia-car-plate-number/dataset/4)  
 - **Dataset with cars at night:** [Link](https://drive.google.com/drive/folders/1fLB_Ui03iKvTCJENPOCUrFyxGEUKzEqy?usp=drive_link)  
