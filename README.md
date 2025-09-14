@@ -18,4 +18,4 @@ This project is a **car plate detection and recognition system** built using **Y
 - **Dataset with cars at night:** [Link](https://drive.google.com/drive/folders/1fLB_Ui03iKvTCJENPOCUrFyxGEUKzEqy?usp=drive_link)  
 - **Testing dataset (for trying the system):** [Link](https://drive.google.com/drive/folders/1fLB_Ui03iKvTCJENPOCUrFyxGEUKzEqy?usp=drive_link)
 ## Model
-- **Model (for trying the system):** [Link](https://drive.google.com/file/d/1BoLW52WVJEZUvFtM2YwCx82zYKhybopL/view?usp=drive_link)
+- **Model:** [Link](https://drive.google.com/file/d/1BoLW52WVJEZUvFtM2YwCx82zYKhybopL/view?usp=drive_link)
