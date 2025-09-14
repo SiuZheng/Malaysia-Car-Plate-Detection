@@ -6,7 +6,7 @@ from PIL import Image
 
 
 reader = easyocr.Reader(['en'])
-yolo_model = YOLO("detector/carplate_yolov11n.pt")
+yolo_model = YOLO("detector/car_plate_detection_yolov11n.pt")
 
 def enhanced_preprocess(crop):
     """Enhanced preprocessing for better OCR accuracy"""
