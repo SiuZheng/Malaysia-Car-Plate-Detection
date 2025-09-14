@@ -19,3 +19,6 @@ This project is a **car plate detection and recognition system** built using **Y
 - **Testing dataset (for trying the system):** [Link](https://drive.google.com/drive/folders/1fLB_Ui03iKvTCJENPOCUrFyxGEUKzEqy?usp=drive_link)
 ## Model
 - **Model:** [Link](https://drive.google.com/file/d/1BoLW52WVJEZUvFtM2YwCx82zYKhybopL/view?usp=drive_link)
+## Example
+![Alt Text](images/example2.png)
+![Alt Text](images/example3.png)
